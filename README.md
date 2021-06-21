@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idiosycrati
+- 👋 Hi, I’m Chris Anthony C. Panizales
 - 👀 I’m interested in Computers in general
 - 🌱 I’m currently learning Computer Science major in Application Development in University of Makati, Philippines
 - 💞️ I’m looking to collaborate on ...
